@@ -16,5 +16,9 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
-
+    <packaging>pom</packaging>
+    <modules>
+        <module>server</module>
+        <module>client</module>
+    </modules>
 </project>
